@@ -61,6 +61,8 @@ View `views/layout.html`:
 	</head>
 	<body>
 		{{contents}}
+
+		{{relativePath}}css/style.css
 	</body>
 </html>
 ```
