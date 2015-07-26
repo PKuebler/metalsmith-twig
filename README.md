@@ -43,7 +43,7 @@ Source file src/index.md:
 
 ```markdown
 ---
-layout: layout.html
+view: layout.html
 title: The title
 ---
 The Content
