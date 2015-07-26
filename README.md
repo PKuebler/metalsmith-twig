@@ -72,4 +72,8 @@ View `views/layout.html`:
 * Twig.js [github.com/justjohn/twig.js](https://github.com/justjohn/twig.js)
 * Twig [twig.sensiolabs.org](http://twig.sensiolabs.org/)
 
+# Contributors
+[Philipp](http://pkuebler.de/)    
+[Joe Critchley](https://github.com/joecritch)  
+
 # The MIT License (MIT)
