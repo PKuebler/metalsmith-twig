@@ -36,6 +36,7 @@ Metalsmith(__dirname)
 
 * `directory`: *(default: views)* the directory for views.
 * `global`: *(default: {})* global variables.
+* `cache`: *(default: true)* boolean if templatefiles cached.
 
 ## Files
 
