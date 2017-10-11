@@ -11,7 +11,7 @@
   },
   "dependencies": {
     "twig": "^1.10.5",
-    "async": "^1.3.0"
+    "async": "^2.5.0"
   },
   "devDependencies": {
     "metalsmith": "^1.0.0",
