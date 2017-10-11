@@ -10,7 +10,7 @@
     "test": "mocha test"
   },
   "dependencies": {
-    "twig": "^0.8.2",
+    "twig": "^1.10.5",
     "async": "^1.3.0"
   },
   "devDependencies": {
