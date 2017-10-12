@@ -38,6 +38,7 @@ Metalsmith(__dirname)
 * `global`: *(default: {})* global variables.
 * `cache`: *(default: true)* boolean if templatefiles cached.
 * `twig`: *(default: undefined)* overwirte the twig object.
+* `allowInlineIncludes`: *(default: false)* boolean if allow inline includes.
 
 ## Files
 
@@ -75,8 +76,8 @@ View `views/layout.html`:
 * Twig [twig.sensiolabs.org](http://twig.sensiolabs.org/)
 
 # Contributors
-[Philipp](http://pkuebler.de/)    
-[Joe Critchley](https://github.com/joecritch) 
-[Thiago de Mello Bueno](https://github.com/thiagodemellobueno) 
+- [Philipp](http://pkuebler.de/)
+- [Joe Critchley](https://github.com/joecritch)
+- [Thiago de Mello Bueno](https://github.com/thiagodemellobueno)
 
 # The MIT License (MIT)
