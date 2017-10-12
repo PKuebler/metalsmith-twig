@@ -13,4 +13,16 @@ describe('metalsmith-twig', function() {
 				done();
 			});
 	});
+	it('should render a basic template with config', function(done) {
+		Metalsmith(__dirname+'/figures/basic')
+			.use(twig({
+			    directory: 'views',
+			    cache: false
+			  }))
+			.build(function(err) {
+				if (err) return done(err);
+				equal(__dirname+'/figures/basic/expected', __dirname+'/figures/basic/build');
+				done();
+			});
+	});
 });
