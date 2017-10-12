@@ -17,7 +17,8 @@ describe('metalsmith-twig', function() {
 		Metalsmith(__dirname+'/figures/basic')
 			.use(twig({
 			    directory: 'views',
-			    cache: false
+			    cache: false,
+			    allowInlineIncludes: true
 			  }))
 			.build(function(err) {
 				if (err) return done(err);

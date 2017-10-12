@@ -38,6 +38,7 @@ Metalsmith(__dirname)
 * `global`: *(default: {})* global variables.
 * `cache`: *(default: true)* boolean if templatefiles cached.
 * `twig`: *(default: undefined)* overwirte the twig object.
+* `allowInlineIncludes`: *(default: false)* boolean if allow inline includes.
 
 ## Files
 
