@@ -75,8 +75,8 @@ View `views/layout.html`:
 * Twig [twig.sensiolabs.org](http://twig.sensiolabs.org/)
 
 # Contributors
-[Philipp](http://pkuebler.de/)    
-[Joe Critchley](https://github.com/joecritch) 
-[Thiago de Mello Bueno](https://github.com/thiagodemellobueno) 
+- [Philipp](http://pkuebler.de/)
+- [Joe Critchley](https://github.com/joecritch)
+- [Thiago de Mello Bueno](https://github.com/thiagodemellobueno)
 
 # The MIT License (MIT)
