@@ -79,5 +79,6 @@ View `views/layout.html`:
 - [Philipp](http://pkuebler.de/)
 - [Joe Critchley](https://github.com/joecritch)
 - [Thiago de Mello Bueno](https://github.com/thiagodemellobueno)
+- [Rene Bosch](https://github.com/boschr)
 
 # The MIT License (MIT)
