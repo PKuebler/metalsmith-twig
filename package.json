@@ -3,7 +3,7 @@
   "author": "Philipp Kuebler (http://pkuebler.de)",
   "description": "A metalsmith plugin for [twig.js](https://github.com/justjohn/twig.js).",
   "repository": "git@github.com:PKuebler/metalsmith-twig.git",
-  "version": "1.3.0",
+  "version": "1.4.0",
   "license": "MIT",
   "main": "lib/index.js",
   "scripts": {
