@@ -10,12 +10,12 @@
     "test": "mocha test"
   },
   "dependencies": {
-    "async": "^2.5.0",
-    "twig": "^1.12.0"
+    "async": "^3.1.0",
+    "twig": "^1.13.3"
   },
   "devDependencies": {
     "assert-dir-equal": "^1.1.0",
     "metalsmith": "^2.3.0",
-    "mocha": "^4.0.1"
+    "mocha": "^6.2.1"
   }
 }
