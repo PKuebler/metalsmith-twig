@@ -1,4 +1,4 @@
-metalsmith-twig [![Build Status](https://travis-ci.org/PKuebler/metalsmith-twig.svg?branch=master)](https://travis-ci.org/PKuebler/metalsmith-twig)
+metalsmith-twig
 ===========
 
 ## A [metalsmith](http://www.metalsmith.io/) Plugin for [Twig](http://twig.sensiolabs.org/) based on [justjohn/twig.js](https://github.com/justjohn/twig.js).
